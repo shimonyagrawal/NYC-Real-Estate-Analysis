@@ -1,0 +1,2 @@
+# nyc-real-estate-analysis
+Using descriptive model, the firm will understand the current market scenario in Madison in terms of mean sales, clustering analysis of KPIs and proportion of sales. The predictive models will forecast the sales for the next 8 quarters using time series and multiple regression. This will help the firm know it’s useful predictors that determine its sale prices and its most expensive and least expensive properties in Madison. 
